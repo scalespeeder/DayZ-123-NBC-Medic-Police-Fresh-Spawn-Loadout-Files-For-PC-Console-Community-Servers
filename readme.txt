@@ -1,6 +1,6 @@
 DayZ Police & NCB Medic Fresh Spawn Loadout Files For Console and PC Community Servers Instructions & Terms Of Use
 
-When installed correctly these files will spawn fresh players with a Police (Pioneer Scout) or an NBM Medic (M16), with gear and randomised uniform.
+When installed correctly these files will spawn fresh players with a Police (Pioneer Scout) or an NBC Medic (M16), with gear and randomised uniform.
 
 Limited Testing on PC Chernarus Local Experimental Server DAYZ Version 1.23 Nov 23.
 
